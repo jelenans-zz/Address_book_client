@@ -1,7 +1,7 @@
 Address_book_client
 ===================
 
-web application that jQuery, Twitter Bootstrap
+web application that uses REST API
 
 **********************************************
 
