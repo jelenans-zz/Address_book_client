@@ -1,12 +1,12 @@
 // The root URL for the RESTful services
-var rootURL = "http://cloudguest134.niksula.hut.fi:8080/entries";
+var rootURL = "localhost:3000/entries";
 
 var currentContact;
 
  var query = $.param({
   response_type: 'token',
   client_id: '156523700281-aesn8jkatkcu9tvtnb58nbjosrcp27fi.apps.googleusercontent.com',
-  redirect_uri: encodeURI('http://cloudguest134.niksula.hut.fi:8080/oauth2callback'),
+  redirect_uri: encodeURI('http://localhost:3000/entries/oauth2callback'),
   scope: encodeURI('https://www.google.com/m8/feeds/')
 });
 
