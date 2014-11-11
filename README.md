@@ -5,10 +5,15 @@ web application that uses the REST API
 
 **********************************************
 
+Clieng developed using:
+
  jQuery, Bootstrap, Google Contacts API 
  
 **********************************************
+Backend developed using:
 
+Node.js, MongoDB
+**********************************************
 
 Functionalities:
 
