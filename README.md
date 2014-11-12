@@ -5,7 +5,7 @@ web application that uses REST API
 
 **********************************************
 
-Clieng developed using:
+Client developed using:
 
  jQuery, Bootstrap, Google Contacts API 
  
@@ -32,6 +32,8 @@ Functionalities:
  
 ******************************************
 ******************************************
+
+![alt-link](https://raw.githubusercontent.com/jelenans/Address_book_client/master/addr_book_client.bmp)
 
 
 **********************************************************************************
